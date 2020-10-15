@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Jinhyeong Seo / @seo-jinBro
 
-<!--
-**seo-jinBro/seo-jinBro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently studing in Seoul National University.
 
-Here are some ideas to get you started:
+Interested in NLP, specially building pipelines, optimizing models, and "productionizing".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Worked in [Scatter Lab](https://scatterlab.co.kr/) (Pingpong) as backend engineer (2018-2020)
+
+### 📮 Contact
+
+- Email: e6ipi1@gmail.com
+- Resume: [👨🏽‍💻](./Resume_Jinhyeong_Seo.pdf)
+- Linkedin: linkedin.com/in/seo-jinBro
