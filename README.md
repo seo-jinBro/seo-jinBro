@@ -10,4 +10,4 @@ Worked in [Scatter Lab](https://scatterlab.co.kr/) (Pingpong) as backend enginee
 
 - Email: e6ipi1@gmail.com
 - Resume: [here!](./Resume_Jinhyeong_Seo.pdf)
-- Linkedin: linkedin.com/in/seo-jinBro
+- Linkedin: [linkedin.com/in/seo-jinBro](linkedin.com/in/seo-jinBro)
