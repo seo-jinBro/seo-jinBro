@@ -1,6 +1,6 @@
 ### 👋 Jinhyeong Seo / @seo-jinBro
 
-Currently working at Danggeun Market Inc. (@daangn) as Machine Learning Engineer.
+Currently working at [Danggeun Market Inc.](https://team.daangn.com/) (@daangn) as Machine Learning Engineer.
 
 Interested in NLP, specially building pipelines, optimizing models, and "productionizing".
 
