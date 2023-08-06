@@ -1,8 +1,6 @@
 ### 👋 Jinhyeong Seo / @seo-jinBro
 
-Currently working at [Danggeun Market Inc.](https://team.daangn.com/) (@daangn) as Machine Learning Engineer.
-
-Interested in NLP, specially building pipelines, optimizing models, and "productionizing".
+Currently working at [Danggeun Market Inc.](https://team.daangn.com/) (@daangn) as Machine Learning Software Engineer.
 
 Worked in [Scatter Lab](https://scatterlab.co.kr/) (Pingpong) as Backend Engineer (2018-2020)
 Studied at Seoul National University Computer Science & Engineering (@SNUCSE).
